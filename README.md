@@ -69,9 +69,9 @@
 ## 🔗 Connect with Me
 
 <p>
-  <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/khushbu-kumari-571147304)" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/khushbu-kumari-571147304" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
   <a href="mailto:khushbuk.ug24.cs@nitp.ac.in">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
