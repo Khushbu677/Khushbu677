@@ -9,7 +9,7 @@
 - 🔭 I'm currently working on exciting projects involving **web development** and **data-driven applications**
 - 🌱 I'm constantly learning and improving my skills in **DSA**, **DBMS**, and **system design**
 - 💬 Ask me about **C++**, **Python**, **Java**, or anything tech!
-- 📫 How to reach me: **[khushbuk.ug24.cs@nitp.ac.in]**
+- 📫 How to reach me: **[khushbukumari04715@gmail.com]**
 
 
 ---
@@ -72,7 +72,7 @@
   <a href="https://www.linkedin.com/in/khushbu-kumari-571147304" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-  <a href="mailto:khushbuk.ug24.cs@nitp.ac.in">
+  <a href="mailto:khushbukumari04715@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Khushbu677" target="_blank">
